@@ -16,7 +16,7 @@ setup(
     description='Process memory hacking(editing) library',
     long_description=long_description,
 
-    # The project's main homepage.
+    # The project's main homepage.  (fork) https://github.com/dearfuture/hackManager
     url='https://github.com/SirFroweey/hackManager',
 
     # Author details
@@ -60,7 +60,7 @@ setup(
     # project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/technical.html#install-requires-vs-requirements-files
-    install_requires=['ctypes', 'winappdbg'],
+    install_requires=['winappdbg'],
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.  If using Python 2.6 or less, then these

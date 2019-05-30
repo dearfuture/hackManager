@@ -2,9 +2,9 @@ Metadata-Version: 1.1
 Name: hackManager
 Version: 2.5.0
 Summary: Process memory hacking(editing) library
-Home-page: https://github.com/SirFroweey/hackManager
-Author: Froweey
-Author-email: lottasay@gmail.com
+Home-page: https://github.com/dearfuture/hackManager
+Author: dearfutre
+Author-email: dearfuture2012@gmail.com
 License: MIT
 Description: hackManager is a set of tools created to ease the process of hack and anti-hack development.
 Keywords: process hacking hack anti-hack anti writeprocessmemory readprocessmemory development

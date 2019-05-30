@@ -1,3 +1,4 @@
+README.md
 setup.py
 hackManager/__init__.py
 hackManager/hack.py
