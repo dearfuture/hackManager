@@ -5,7 +5,7 @@ Windows process memory hacking framework created in Python and winappdbg.
 
 # Installation
 #`pip install hackManager`
-py -2 -m pip install -e <path of hackManager>
+`py -2 -m pip install -e <path of hackManager>`
 
 # Examples
 **To create a simple Python file to renames Notepad.exe into something else, you could achieve that via:**
